@@ -1,0 +1,46 @@
+ [{
+		"id": "1",
+		"setterAddress": "0x823eDA0E2414a90F00489BE8065bBB11d93f6972",
+		"name": "Fibonacci",
+		"description": "Find the nth Fibonacci number",
+		"input": "5",
+		"output": "5",
+		"priceTag": "$50",
+		"isActive": "true"
+	},{
+		"id": "2",
+		"setterAddress": "0xBac6a13bA3e79F36C29F8DAC2A6872Eb591Cb9AF",
+		"name": "Factorial",
+		"description": "Find nth factorial",
+		"input": "5",
+		"output": "120",
+		"priceTag": "$100",
+		"isActive": "true"
+	},{
+		"id": "3",
+        "setterAddress": "0x5E424321Db85154AaFDf2dD745492735ffDC5755",
+		"name": "Prime Numbers",
+		"description": "Find the nth prime number",
+		"input": "5",
+		"output": "11",
+		"priceTag": "$500",
+		"isActive": "true"
+    },{
+		"id": "4",
+		"setterAddress": "0x7F11f0767404b88d75050b3B0EFfE13879E6CF5B",
+		"name": "Greatest Common Divisor",
+		"description": "Find GCD(n,n+5)",
+		"input": "5",
+		"output": "5",
+		"priceTag": "$1000",
+		"isActive": "true"
+	},{
+		"id": "5",
+		"setterAddress": "0x5E424321Db85154AaFDf2dD745492735ffDC5755",
+		"name": "Quadaratic equation",
+		"description": "Solve a*x^2 + b*x + c, input a, b, c",
+		"input": "1 2 1",
+		"output": "1",
+		"priceTag": "$5000",
+		"isActive": "true"
+	}]
